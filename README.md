@@ -1,4 +1,4 @@
-# PROJECT 04: Data Lake
+# PROJECT 04: Data Lake with Spark
 
 # 1. Overview
 
